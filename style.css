@@ -51,5 +51,22 @@ section{
                  0px 3px 0px #CCC,
                  0px 4px 0px #CCC;
 }
+#home p{
+    font-size:18px;
+    color:#fff;
+}
+#home .input-group{
+    width:40%;
+    height:45px;
+}
+.signin{
+    background:blue !important;
+    color:white !important;
+    box-shadow:2px 4px 5px rgba(0,0,0,0.3);
+}
+    
+    
+    
+    
         
     
