@@ -17,3 +17,12 @@
     font-size: 20px;
     font-weight: 800;
 }
+#navbarSupportedContent a{
+    color:#fff;
+    border-bottom:2px solid transparent;
+}
+#navbarSupportedContent a:hover{
+    border-bottom:2px solid red;
+}
+        
+    
