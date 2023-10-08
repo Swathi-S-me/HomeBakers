@@ -24,5 +24,11 @@
 #navbarSupportedContent a:hover{
     border-bottom:2px solid red;
 }
+#navbarSupportedContent button{
+    background: blue;
+    width: 5rem;
+    border-radius: 15px;
+}
+
         
     
